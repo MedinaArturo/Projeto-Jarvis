@@ -1,0 +1,5 @@
+openai
+gtts
+vosk
+playsound
+pyaudio
